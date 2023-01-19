@@ -1,6 +1,5 @@
 # HDA Collection
 
----
 # HeightField Mask Border
 A node inspired by Adrien Lambert's one. Creates a mask with diffuse borders for heigthfield geometry.
 
@@ -13,8 +12,8 @@ A node inspired by Adrien Lambert's one. Creates a mask with diffuse borders for
 ![img00](https://github.com/Enjaileu/houdini_tools/blob/main/hda/imgs/heightfield_mask_border/heightfield_mask_border_node.PNG)
 ![img01](https://github.com/Enjaileu/houdini_tools/blob/main/hda/imgs/heightfield_mask_border/heightfield_mask_border_node.gif)
 
-**Authors**
+**Authors**:
+- [**Adrien Lambert**](https://www.artstation.com/adrienlambert)
+- **Angèle Sionneau** - asionneau@artfx.fr
 
-[Adrien Lambert](https://www.artstation.com/adrienlambert)
 
-Angèle Sionneau - asionneau@artfx.fr
