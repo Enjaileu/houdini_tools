@@ -17,7 +17,7 @@ Allows to change nodes selected's color with more choice than the Houdini legacy
 **before** : 
 ![img00](https://github.com/Enjaileu/houdini_tools/blob/main/tools/imgs/recolor_before.PNG)
 **after**:
-![img01](https://github.com/Enjaileu/houdini_tools/blob/main/tools/imgs/recolor_before.PNG)
+![img01](https://github.com/Enjaileu/houdini_tools/blob/main/tools/imgs/recolor_after.PNG)
 
 **Authors**
 - [Lukevan](https://mobile.twitter.com/wobblypictures), [origin code here](https://pastebin.com/BbGi4kB6)
