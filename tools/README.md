@@ -10,4 +10,21 @@ The tool works by saving a selection of nodes as python code and adding that cod
 - Angèle Sionneau
 
 ---
+## Recolor tool
+Modification of Lukevan's LV Arrange tool.
+Allows to change nodes selected's color with more choice than the Houdini legacy color palette.
+
+**Authors**
+- [Lukevan](https://mobile.twitter.com/wobblypictures), [origin code here](https://pastebin.com/BbGi4kB6)
+- Angèle Sionneau
+
+---
+### Backup Shelf
+Allows to backup the shelf you want in a folder ".old".
+The folder ".old" is located at the same place as the .shelf file.
+By default : User/Documents/Houdini[version]/toolbar
+
+**Authors**
+- Elise Vidal
+- Angèle Sionneau
 
