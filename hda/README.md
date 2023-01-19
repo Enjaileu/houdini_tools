@@ -15,3 +15,4 @@ A node inspired by Adrien Lambert's one. Creates a mask with diffuse borders for
 
 **Authors**
 [Adrien Lambert](https://www.artstation.com/adrienlambert)
+Angèle Sionneau - asionneau@artfx.fr
